@@ -1,5 +1,5 @@
 import unittest
-from math_operations import add, subtract, multiply, divide, is_even
+from operations import add, subtract, multiply, divide, is_even
 
 class TestMathOperations(unittest.TestCase):
 
